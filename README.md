@@ -5,5 +5,5 @@
 
 
 
-<h2>This Repository contains the previous year codevita coding questions with solutions and explanation.</h2>
+<h2>This Repository contains the previous year codevita coding questions with easy understandable solutions.</h2>
 <h2>I hope this might help you one step!...</h2>
